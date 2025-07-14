@@ -1,0 +1,41 @@
+{
+  "companyName" : "I Scream Inc.",
+  "headOffice" : "South Pole, Antarctica",
+  "established" : 2001,
+  "active" : true,
+  "topFlavors" : [
+    {
+      "name" : "Chocolate Mint",
+      "calories" : 400,
+      "type" : "ice cream",
+      "ingredients" : [
+        "peppermint cream",
+        "dark chocolate chips",
+        "vanilla extract"
+      ],
+      "image" : "https://giovannisinobolli.github.io/lesson-10/images/chocolate-mint.svg"
+    },
+    {
+      "name" : "Peach Mango",
+      "calories" : 350,
+      "type" : "Milkshake-type ice-cream",
+      "ingredients" : [
+        "peach purée",
+        "mango chunks",
+        "clover honey"
+      ],
+      "image" : "https://giovannisinobolli.github.io/lesson-10/images/peach-mango.svg"
+    },
+    {
+      "name" : "Strawberry Sprinkle",
+      "calories" : 9999999,
+      "type" : "ice-cream",
+      "ingredients" : [
+        "strawberry chunks",
+        "mango chunks",
+        "Sprinkles"
+      ],
+      "image" : "https://giovannisinobolli.github.io/lesson-10/images/strawberry-sprinkle.svg"
+    }
+  ]
+}
