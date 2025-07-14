@@ -7,7 +7,7 @@ async function populate(){
 
     // Introducing JavaScript Object Notation (JSON): https://json.org/
     // STEP 4: Store the URL of a JSON file in a variable */
-    let url = "https://giovannisinobolli.github.io/lesson-10/js/i-scream.json";
+    let url = "https://giovannisinobolli.github.io/lab3JavaScript-25s/js/i-scream.json";
 
     // STEP 5: Use the new URL to create a new request object
     let request = new Request(url);
