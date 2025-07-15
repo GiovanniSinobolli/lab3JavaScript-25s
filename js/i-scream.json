@@ -13,7 +13,7 @@
         "dark chocolate chips",
         "vanilla extract"
       ],
-      "image" : "https://giovannisinobolli.github.io/lesson-10/images/chocolate-mint.svg"
+      "image" : "https://giovannisinobolli.github.io/lab3JavaScript-25s/images/chocolate-mint.svg"
     },
     {
       "name" : "Peach Mango",
@@ -24,7 +24,7 @@
         "mango chunks",
         "clover honey"
       ],
-      "image" : "https://giovannisinobolli.github.io/lesson-10/images/peach-mango.svg"
+      "image" : "https://giovannisinobolli.github.io/lab3JavaScript-25s/images/peach-mango.svg"
     },
     {
       "name" : "Strawberry Sprinkle",
@@ -35,7 +35,7 @@
         "mango chunks",
         "Sprinkles"
       ],
-      "image" : "https://giovannisinobolli.github.io/lesson-10/images/strawberry-sprinkle.svg"
+      "image" : "https://giovannisinobolli.github.io/lab3JavaScript-25s/images/strawberry-sprinkle.svg"
     }
   ]
 }
