@@ -28,7 +28,7 @@
     },
     {
       "name" : "Strawberry Sprinkle",
-      "calories" : 9999999,
+      "calories" : 287,
       "type" : "ice-cream",
       "ingredients" : [
         "strawberry chunks",
@@ -36,6 +36,28 @@
         "Sprinkles"
       ],
       "image" : "https://giovannisinobolli.github.io/lab3JavaScript-25s/images/strawberry-sprinkle.svg"
+    },
+    {
+      "name" : "Super Vanilla",
+      "calories" : 276,
+      "type" : "Ice-cream",
+      "ingredients" : [
+        "Vanilla",
+        "Milk",
+        "Chocolate Sprinkles"
+      ],
+      "image" : "https://giovannisinobolli.github.io/lab3JavaScript-25s/images/ice-cream-xtra2.svg"
+    },
+    {
+      "name" : "cappuccino crunch",
+      "calories" : 319,
+      "type" : "Ice-cream",
+      "ingredients" : [
+        "Cappuccino",
+        "Almond crunches",
+        "Chocolate Sprinkles"
+      ],
+      "image" : "https://giovannisinobolli.github.io/lab3JavaScript-25s/images/ice-cream-xtra1.svg"
     }
   ]
 }
